@@ -5,7 +5,12 @@ feeds:
     uri: https://github.com/fw876/helloworld.git
     branch: master
 packages:
-  - luci-app-mwan3
+  - n2n
+  - n2n-utils
+  - n2n-edge
+  - n2n-supernode
+  - luci-app-n2n
+  - luci-app-openclash
 
 
 
