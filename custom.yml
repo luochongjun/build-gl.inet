@@ -6,6 +6,9 @@ feeds:
     branch: master
 packages:
   - luci-app-ssr-plus
+  - luci-app-passwall
+  - luci-app-passwall2
+  - luci-app-openclash
   - luci-app-ddns
   - ddns-scripts
   - ddns-scripts-services
